@@ -1,0 +1,18 @@
+[
+    {
+        "base_model_nm": "TSp_vs_nonProm",
+        "subset": "tspmuscle_nonPromHu",
+        "lr_dir": "lr3e-5_ep10",
+        "model_path": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/TSp_vs_nonProm/3k/tspmuscle_nonPromHu/lr3e-5_ep10/checkpoint-600",
+        "data_dir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/data/jul_2025/split/TSp_vs_nonProm/3k/tspmuscle_nonPromHu",
+        "res_pdir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/RESULT/lr3e-5_ep10/TSp_vs_nonProm_3k_tspmuscle_nonPromHu"
+    },
+    {
+        "base_model_nm": "TSp_vs_genNullseqs",
+        "subset": "tspmuscle_genNullseqs",
+        "lr_dir": "lr3e-5_ep10",
+        "model_path": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/TSp_vs_genNullseqs/3k/tspmuscle_genNullseqs/lr3e-5_ep10/checkpoint-300",
+        "data_dir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/data/jul_2025/split/TSp_vs_genNullseqs/3k/tspmuscle_genNullseqs",
+        "res_pdir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/RESULT/lr3e-5_ep10/TSp_vs_genNullseqs_3k_tspmuscle_genNullseqs"
+    }
+]

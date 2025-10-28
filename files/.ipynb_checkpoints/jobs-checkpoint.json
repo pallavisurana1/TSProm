@@ -1,0 +1,66 @@
+[
+  {
+    "base_model_nm": "TSp_vs_nonProm",
+    "subset": "tspbrain_nonPromHu",
+    "lr_dir": "lr3e-5_ep10",
+    "model_path": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/TSp_vs_nonProm/3k/tspbrain_nonPromHu/lr3e-5_ep10/checkpoint-600",
+    "data_dir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/data/jul_2025/split/TSp_vs_nonProm/3k/tspbrain_nonPromHu",
+    "res_pdir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/RESULT/lr3e-5_ep10/TSp_vs_nonProm_3k_tspbrain_nonPromHu"
+  },
+  {
+    "base_model_nm": "TSp_vs_nonProm",
+    "subset": "tsptestis_nonPromHu",
+    "lr_dir": "lr3e-5_ep10",
+    "model_path": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/TSp_vs_nonProm/3k/tsptestis_nonPromHu/lr3e-5_ep10/checkpoint-4100",
+    "data_dir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/data/jul_2025/split/TSp_vs_nonProm/3k/tsptestis_nonPromHu",
+    "res_pdir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/RESULT/lr3e-5_ep10/TSp_vs_nonProm_3k_tsptestis_nonPromHu"
+  },
+  {
+    "base_model_nm": "TSp_vs_nonProm",
+    "subset": "tspAll_nonPromHu",
+    "lr_dir": "lr3e-5_ep10",
+    "model_path": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/TSp_vs_nonProm/3k/tspAll_nonPromHu/lr3e-5_ep10/checkpoint-6400",
+    "data_dir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/data/jul_2025/split/TSp_vs_nonProm/3k/tspAll_nonPromHu",
+    "res_pdir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/RESULT/lr3e-5_ep10/TSp_vs_nonProm_3k_tspAll_nonPromHu"
+  },
+  {
+    "base_model_nm": "TSp_vs_nonProm",
+    "subset": "tspliver_nonPromHu",
+    "lr_dir": "lr3e-5_ep10",
+    "model_path": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/TSp_vs_nonProm/3k/tspliver_nonPromHu/lr3e-5_ep10/checkpoint-200",
+    "data_dir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/data/jul_2025/split/TSp_vs_nonProm/3k/tspliver_nonPromHu",
+    "res_pdir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/RESULT/lr3e-5_ep10/TSp_vs_nonProm_3k_tspliver_nonPromHu"
+  },
+  {
+    "base_model_nm": "TSp_vs_genNullseqs",
+    "subset": "tspAll_genNullseqs",
+    "lr_dir": "lr3e-5_ep10",
+    "model_path": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/TSp_vs_genNullseqs/3k/tspAll_genNullseqs/lr3e-5_ep10/checkpoint-7300",
+    "data_dir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/data/jul_2025/split/TSp_vs_genNullseqs/3k/tspAll_genNullseqs",
+    "res_pdir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/RESULT/lr3e-5_ep10/TSp_vs_genNullseqs_3k_tspAll_genNullseqs"
+  },
+  {
+    "base_model_nm": "TSp_vs_genNullseqs",
+    "subset": "tspliver_genNullseqs",
+    "lr_dir": "lr3e-5_ep10",
+    "model_path": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/TSp_vs_genNullseqs/3k/tspliver_genNullseqs/lr3e-5_ep10/checkpoint-300",
+    "data_dir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/data/jul_2025/split/TSp_vs_genNullseqs/3k/tspliver_genNullseqs",
+    "res_pdir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/RESULT/lr3e-5_ep10/TSp_vs_genNullseqs_3k_tspliver_genNullseqs"
+  },
+  {
+    "base_model_nm": "TSp_vs_genNullseqs",
+    "subset": "tsptestis_genNullseqs",
+    "lr_dir": "lr3e-5_ep10",
+    "model_path": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/TSp_vs_genNullseqs/3k/tsptestis_genNullseqs/lr3e-5_ep10/checkpoint-5400",
+    "data_dir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/data/jul_2025/split/TSp_vs_genNullseqs/3k/tsptestis_genNullseqs",
+    "res_pdir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/RESULT/lr3e-5_ep10/TSp_vs_genNullseqs_3k_tsptestis_genNullseqs"
+  },
+  {
+    "base_model_nm": "TSp_vs_genNullseqs",
+    "subset": "tspbrain_genNullseqs",
+    "lr_dir": "lr3e-5_ep10",
+    "model_path": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/TSp_vs_genNullseqs/3k/tspbrain_genNullseqs/lr3e-5_ep10/checkpoint-300",
+    "data_dir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/data/jul_2025/split/TSp_vs_genNullseqs/3k/tspbrain_genNullseqs",
+    "res_pdir": "/data/projects/dna/pallavi/DNABERT_runs/DATA_RUN/dnabert2_FineTune_Zhihan_attention_extracted/july_2025_mmseq/RESULT/lr3e-5_ep10/TSp_vs_genNullseqs_3k_tspbrain_genNullseqs"
+  }
+]
