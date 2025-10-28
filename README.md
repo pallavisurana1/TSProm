@@ -139,9 +139,8 @@ Include a brief statement of intended use.
 If you use **TSProm** in your research, please cite:
 
 ```
-Surana, P., & Davuluri, R. (2025).
-TSProm: Tissue-Specific Promoter DNA LLM for Deciphering the Genomic Context of Tissue Specificity.
-Bioinformatics / Genomics (under review).
+Pallavi Surana, Pratik Dutta, Nimisha Papineni, Rekha Sathian, Zhihan Zhou, Han Liu, and Ramana V. Davuluri (2025).
+TSProm: Tissue-Specific Promoter DNA LLM for Deciphering the Genomic Context of Tissue Specificity, arxiv
 ```
 
 ---
