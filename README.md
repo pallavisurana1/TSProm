@@ -1,6 +1,6 @@
 # 🧬 TSProm: Tissue-Specific Promoter DNA LLM
 
-![TSProm Pipeline](files/Figure1.pdf)
+![TSProm Pipeline](files/Fig1.png)
 
 ---
 
