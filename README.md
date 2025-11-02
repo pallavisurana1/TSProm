@@ -138,9 +138,10 @@ Include a brief statement of intended use.
 ## Citation
 If you use **TSProm** in your research, please cite:
 
+
 ```
-Pallavi Surana, Pratik Dutta, Nimisha Papineni, Rekha Sathian, Zhihan Zhou, Han Liu, and Ramana V. Davuluri (2025).
-TSProm: Tissue-Specific Promoter DNA LLM for Deciphering the Genomic Context of Tissue Specificity, arxiv
+Surana, Pallavi, Pratik Dutta, Nimisha Papineni, Rekha Sathian, Zhihan Zhou, Han Liu, and Ramana V. Davuluri. 2025.
+“TSProm: Deciphering the Genomic Context of Tissue Specificity.” bioRxiv. https://doi.org/10.1101/2025.10.30.685161
 ```
 
 ---
