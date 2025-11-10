@@ -51,6 +51,11 @@ TSProm/
 │   ├── Fig2.ipynb
 │   ├── Fig3.ipynb
 │   └── Fig4.ipynb
+│   ├── runs/
+│   │   ├── 1_attention.....ipynb
+│   │   └── 2....ipynb
+│   │   └── 3_TransSHap.ipynb
+│   │   └── 2C_Biclustering.ipynb
 │
 ├── run_scripts/
 │   ├── 0_generate_data_run.sh
@@ -120,7 +125,7 @@ Rscript -e "library(GenomicRanges); library(BSgenome.Hsapiens.UCSC.hg38); cat('�
 ---
 
 ## Example Outputs
-- Example CSV outputs and visualizations are provided under the `files/` and `notebooks/` directories.  
+- Example CSV outputs and visualizations are provided under the `files/` and `notebooks/`  directories.  `notebooks/runs` directory has information about the attention extraction module runs from the fine-tuned models.
 - You can regenerate figures from the paper using `Fig2.ipynb`, `Fig3.ipynb`, and `Fig4.ipynb`.
 
 ---
